@@ -36,121 +36,121 @@ get_header();
     </thead>
     <tbody>
       <tr>
-        <td>ABCVM</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">ABCVM</a></td>
       </tr>
       <tr>
-        <td>ABN Amro</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">ABN Amro></a></td>
       </tr>
       <tr>
-        <td>Acqua Vero</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Acqua Vero</a></td>
       </tr>
       <tr>
-        <td>ACT / Ápice Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">ACT / Ápice Investimentos</a></td>
       </tr>
       <tr>
-        <td>ADAMA Brasil</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">ADAMA Brasil</a></td>
       </tr>
       <tr>
-        <td>AGECEF -SP</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">AGECEF -SP</a></td>
       </tr>
       <tr>
-        <td>AGECEF/TM</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">AGECEF/TM</a></td>
       </tr>
       <tr>
-        <td>Agencia Estado</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Agencia Estado</a></td>
       </tr>
       <tr>
-        <td>Aggrega beneficios</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Aggrega beneficios</a></td>
       </tr>
       <tr>
-        <td>Aggrega Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Aggrega Investimentos</a></td>
       </tr>
       <tr>
-        <td>Agia Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Agia Investimentos</a></td>
       </tr>
       <tr>
-        <td>Ágora Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Ágora Investimentos</a></td>
       </tr>
       <tr>
-        <td>Alaska Asset</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Alaska Asset</a></td>
       </tr>
       <tr>
-        <td>Albion Capital</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Albion Capital</a></td>
       </tr>
       <tr>
-        <td>Alcance Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Alcance Investimentos</a></td>
       </tr>
       <tr>
-        <td>Alphamar Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Alphamar Investimentos</a></td>
       </tr>
       <tr>
-        <td>Alta Vista Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Alta Vista Investimentos</a></td>
       </tr>
       <tr>
-        <td>Alvarez And Marsal</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Alvarez And Marsal</a></td>
       </tr>
       <tr>
-        <td>AndBank</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">AndBank</a></td>
       </tr>
       <tr>
-        <td>Andrade Gutierrez Participações</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Andrade Gutierrez Participações</a></td>
       </tr>
       <tr>
-        <td>APCEF/SP</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">APCEF/SP</a></td>
       </tr>
       <tr>
-        <td>Aplix Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Aplix Investimentos</a></td>
       </tr>
       <tr>
-        <td>Apollo Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Apollo Investimentos</a></td>
       </tr>
       <tr>
-        <td>APOLO ENERGIA</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">APOLO ENERGIA</a></td>
       </tr>
       <tr>
-        <td>AQUA Wealth Managemen</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">AQUA Wealth Managemen</a></td>
       </tr>
       <tr>
-        <td>Aquiraz Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Aquiraz Investimentos</a></td>
       </tr>
       <tr>
-        <td>Arcani Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Arcani Investimentos</a></td>
       </tr>
       <tr>
-        <td>Argentum Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Argentum Investimentos</a></td>
       </tr>
       <tr>
-        <td>ARJ Capital</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">ARJ Capital</a></td>
       </tr>
       <tr>
-        <td>Artesanal Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Artesanal Investimentos</a></td>
       </tr>
       <tr>
-        <td>Asa Investments</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Asa Investments</a></td>
       </tr>
       <tr>
-        <td>Asset 1</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Asset 1</a></td>
       </tr>
       <tr>
-        <td>Astella Invest</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Astella Invest</a></td>
       </tr>
       <tr>
-        <td>Ativa Investimentos</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Ativa Investimentos</a></td>
       </tr>
       <tr>
-        <td>Augme Capital</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Augme Capital</a></td>
       </tr>
       <tr>
-        <td>A55</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">A55</a></td>
       </tr>
       <tr>
-        <td>A7 CAPITAL AGENTES AUTÔNOMOS DE INVESTIMENTOS LTDA</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">A7 CAPITAL AGENTES AUTÔNOMOS DE INVESTIMENTOS LTDA</td>
       </tr>
       <tr>
-        <td>Baluarte Capital</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Baluarte Capital</a></td>
       </tr>
       <tr>
-        <td>Banco Alfa</td>
+        <td><a href="https://api.whatsapp.com/send?phone=5543999178267">Banco Alfa</a></td>
       </tr>
 
     </tbody>
