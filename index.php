@@ -21,7 +21,7 @@ get_header();
 	<!-- Contato -->
 		<section class="sucesso py-3">
 			<div class="container">
-				<h2 class="text-left py-sm-5 my-5 E-fadein">Contato</h2>
+				<h2 class="text-left py-sm-5 my-5 E-fadein">Empresas com desconto</h2>
 			</div>
 		</section>
 	<!-- End Contato -->
